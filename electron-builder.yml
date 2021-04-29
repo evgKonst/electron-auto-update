@@ -1,0 +1,4 @@
+appId: id.example.ElectronAutoUpdate
+publish:
+  provider: github
+#  token: [YOUR GITHUB ACCESS TOKEN]
